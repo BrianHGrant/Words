@@ -10,18 +10,18 @@ From the atebits Github:
 USAGE
 =============
 
-english_verify.rb File contains the method, save in your /lib. /n
-save /words folder to root /n
-method call:  "word".english_verify?() /n
-returns: boolean value /n
+-  english_verify.rb File contains the method, save in your /lib.
+-  save /words folder to root
+-  method call:  "word".english_verify?()
+-  returns: boolean value
 
 
 
 GEM DEPENDENCIES
 =================
 
-gem('rspec') /n
-gem('sinatra') /n
-gem('sinatra-contrib') /n
-gem('sinatra-reloader') /n
-gem('pry') /n
+- gem('rspec')
+- gem('sinatra')
+- gem('sinatra-contrib')
+- gem('sinatra-reloader')
+- gem('pry')
