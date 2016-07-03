@@ -1,7 +1,7 @@
 English Verify
 =====
 
-Ruby program to check whether single word entry is in the english language. Word list is forked from atebits and tha nks to them ant the contributers, visit the GitHub here: (https://github.com/atebits/Words)
+Ruby program to check whether single word entry is in the english language. Word list is forked from atebits and thanks to them and the contributors to the original project, visit the GitHub here: (https://github.com/atebits/Words)
 
 From the atebits Github:
 
